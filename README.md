@@ -1,6 +1,6 @@
 
 # Unity Base Stack Controller
-If you are in the hyper-casual game industry, you know you are gonna make a lot of stacking games. After making (!)thousands of stacking games, I decided to create a base stack controller class to increase my efficiency. [Read More...](https://www.github.com/octokatherine)
+If you are in the hyper-casual game industry, you know you are gonna make a lot of stacking games. After making (!)thousands of stacking games, I decided to create a base stack controller class to increase my efficiency. [Read More...](https://medium.com/@omeerdvrn/creating-a-base-stack-controller-in-unity-8583e51a2640)
 
 
 
